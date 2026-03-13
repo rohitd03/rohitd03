@@ -42,11 +42,11 @@ A service for processing large-scale data transfers without overwhelming downstr
 - Export pipeline streams results directly to the response writer, keeping memory overhead flat
 - Configurable batch size and concurrency with back-pressure support
 
-**Stack:** Go · PostgreSQL · AWS S3 · Docker
+**Stack:** Go · PostgreSQL · Docker · Prometheus
 
 ---
 
 ## Currently Exploring
 
-- Distributed tracing with OpenTelemetry
-- Advanced Kafka consumer group patterns (cooperative rebalancing, exactly-once semantics)
+- Node.js and GraphQL for full-stack backend versatility
+- Contributing to open source Go projects
