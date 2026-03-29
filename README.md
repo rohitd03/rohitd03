@@ -43,10 +43,3 @@ A service for processing large-scale data transfers without overwhelming downstr
 - Configurable batch size and concurrency with back-pressure support
 
 **Stack:** Go · PostgreSQL · Docker · Prometheus
-
----
-
-## Currently Exploring
-
-- Node.js and GraphQL for full-stack backend versatility
-- Contributing to open source Go projects
